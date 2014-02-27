@@ -9,6 +9,6 @@
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
-  </manifest>
+  <item href="new-book-2fa2abeb-f520-40a1-8aae-803c48474aa2-nav.html" id="new-book-2fa2abeb-f520-40a1-8aae-803c48474aa2-nav.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="module1-6b877646-92bd-4dd6-a691-c88ef1683a3a.html" id="module1-6b877646-92bd-4dd6-a691-c88ef1683a3a.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref></spine>
 </package>
