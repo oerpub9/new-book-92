@@ -2,7 +2,7 @@
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="uid">new-book-f7a3d9b7-f310-451e-917c-45a461993bce</dc:identifier>
     <dc:title>new book</dc:title>
-      <date opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2014-2-26</date>
+      <date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="publication">2014-2-26</date>
 </metadata>
   <manifest><item href="new-book-2fa2abeb-f520-40a1-8aae-803c48474aa2-nav.html" id="new-book-2fa2abeb-f520-40a1-8aae-803c48474aa2-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-6b877646-92bd-4dd6-a691-c88ef1683a3a.html" id="module1-6b877646-92bd-4dd6-a691-c88ef1683a3a.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-6b877646-92bd-4dd6-a691-c88ef1683a3a.html"></itemref></spine>
